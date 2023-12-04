@@ -119,5 +119,5 @@ Press Ctrl + B followed by D.
 npm run unstake 
 ```
 
-Copyright 2023 MIND chain 
+Copyright 2023 MetaViral Smart Chain 
 
